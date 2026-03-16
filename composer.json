@@ -1,5 +1,5 @@
 {
-  "name": "sourceability/coding-standard",
+  "name": "magikid/coding-standard",
   "type": "phpcodesniffer-standard",
   "description": "Sourceability coding standards for reuse.",
   "autoload": {
